@@ -1,3 +1,7 @@
+🚀 BENODE-2025 – Proyecto Final Node.js + Firebase
+
+API REST desarrollada con Node.js, Express, Firebase Firestore y JWT, cumpliendo con los requerimientos del proyecto final.
+Permite gestionar productos mediante un CRUD protegido por autenticación con token.
 ## 📂 Estructura del Proyecto BENODE-2025
 
 ```text
